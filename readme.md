@@ -1,6 +1,6 @@
 # Working with AWS S3 using ASP.NET Core – Upload, Download & Delete Files 
 
-![AWS S3 using ASP.NET Core](https://codewithmukesh.com/wp-content/uploads/2022/03/Working-with-AWS-S3-using-ASP.NET-Core.png)
+
 
 In this article, we will be get started on working with AWS S3 using ASP.NET Core Web API to upload, download and delete files from Amazon’s Super Scalable S3! Apart from that, we will also learn more about Amazon’s S3, the problem it solves, dive a bit into the AWS Console for S3 Management, AWS CLI, and Credentials Store, Generate Access Keys for accessing S3 via SDKs, Creating and Deleting S3 buckets, a bit about pre-signed URLs and so on!
 
