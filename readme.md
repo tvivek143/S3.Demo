@@ -17,4 +17,4 @@ In this article, we will be get started on working with AWS S3 using ASP.NET Cor
 *Complete Source Code Included!
 
 
-#amazon #aws #management #testing #dotnet #dotnet6 #codeblog #100daysofcode #blogger #s3 #tutorials
+#amazon #aws #management #testing #dotnet #dotnet6 #s3
